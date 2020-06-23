@@ -8,7 +8,7 @@ Despite its popularity, the career paths in data science are not well defined. T
 
 To simplify, there are three main career paths in data science, (1) data analytics, (2) machine learning research, and (3) machine learning engineering. While all three paths are relevent to any data scientists, one can progress one's career by focusing on either one or a combination of these paths.
 
-In this repository, I am planning to add resouces in three main career paths, such as career advices and interviews of senior data scientists/managers (if you are one of these people, I may reach out to you. ;)).
+In this repository, we are planning to add resouces in three main career paths, such as career advices and interviews of senior data scientists/managers (if you are one of these people, we may reach out to you. ;)).
 
 Any contribution and feedback will be appreciated.
 
