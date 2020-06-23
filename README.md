@@ -12,15 +12,13 @@ In this repository, we are planning to add resouces in three main career paths, 
 
 Any contribution and feedback will be appreciated.
 
-# DATA ANALYTICS
+# CAREER PATHS
 
-## Career Advices
+## Data Analytics
 
-## Examples
+## Machine Learning Research
 
-# MACHINE LEARNING RESEARCH
-
-## Career Advices
+### Advices
 
 * [Stanford CS230: Autumn 2018 Lecture 8 - Career Advice & Reading Research Papers](https://youtu.be/733m6qBH-jI) by Andrew Ng at Stanford
   * Consistent efforts, e.g. reading 2 papers every week, matters more than intense burst of work.
@@ -28,19 +26,38 @@ Any contribution and feedback will be appreciated.
   * Learn the most. Do important work
 * [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html) by John Schulman at OpenAI
 
-## Examples
+## Machine Learning Engineering
 
-# MACHINE LEARNING ENGINEERING
 
-## Career Advices
+# SKILLS
 
-## Learning & Development
+## Machine Learning Modeling
+Start with competitions at [Kaggle](https://kaggle.com).
+
+### Tools
+* [scikit-learn](https://scikit-learn.org/), [lightgbm](https://github.com/microsoft/LightGBM), [xgboost](https://xgboost.readthedocs.io/en/latest/), [keras](https://keras.io/), [fastai](https://github.com/fastai/fastai), [pytorch](https://pytorch.org/), [tensorflow](https://www.tensorflow.org/)
 
 ### Books
+* [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
 * [Deep Learning with Python](https://amzn.to/3fSkndP) by François Chollet
 * [Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow](https://amzn.to/3hXeZI3) by Aurélien Géron
 * [Deep Learning for Coders with fastai & PyTorch](https://amzn.to/3hUCDVE) by Jeremy Howard
 * [Approaching (Almost) Any Machine Learning Problem](https://amzn.to/31922oI) by Abhishek Thakur
+* [Forecasting: Principles and Practice](https://otexts.com/fpp2/) by Rob J Hyndman, George Athanasopoulos
+
+## Statistical Analysis
+
+### Tools
+* [statsmodels](https://www.statsmodels.org/stable/index.html), [stan](https://mc-stan.org/)
+
+## Experimentation
+
+## Programming
+
+## Data Engineering
+
+## Productionization
+
 
 # OTHER RESOURCES
 
