@@ -39,4 +39,5 @@ Any contribution and feedback will be appreciated.
 # OTHER RESOURCES
 
 ## Interviews
-* [Chai Time Data Science](https://hackernoon.com/u/ctdsshow): Sanyam Bhutani's interviews with top Kagglers, ML researchers and practitioners.
+* [Kaggle Winner's Blog](https://medium.com/kaggle-blog): Winners' interviews at [Kaggle](https://kaggle.com)'s official blog.
+* [Chai Time Data Science](https://hackernoon.com/u/ctdsshow): [Sanyam Bhutani](https://github.com/init27)'s interviews with top Kagglers, ML researchers and practitioners.
