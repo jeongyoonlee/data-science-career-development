@@ -34,7 +34,13 @@ Any contribution and feedback will be appreciated.
 
 ## Career Advices
 
-## Examples
+## Learning & Development
+
+### Books
+* [Deep Learning with Python](https://amzn.to/3fSkndP) by François Chollet
+* [Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow](https://amzn.to/3hXeZI3) by Aurélien Géron
+* [Deep Learning for Coders with fastai & PyTorch](https://amzn.to/3hUCDVE) by Jeremy Howard
+* [Approaching (Almost) Any Machine Learning Problem](https://amzn.to/31922oI) by Abhishek Thakur
 
 # OTHER RESOURCES
 
