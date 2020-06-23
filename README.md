@@ -1,4 +1,4 @@
-# [WIP] Resources for Career Development in Data Science
+# [WIP] RESOURCES FOR CAREER DEVELOPMENT IN DATA SCIENCE
 
 This repository aims at compiling comprehensive resources for career development in data science.
 
@@ -12,13 +12,13 @@ In this repository, I am planning to add resouces in three main career paths, su
 
 Any contribution and feedback will be appreciated.
 
-# Data Analytics
+# DATA ANALYTICS
 
 ## Career Advices
 
 ## Examples
 
-# Machine Learning Research
+# MACHINE LEARNING RESEARCH
 
 ## Career Advices
 
@@ -30,10 +30,13 @@ Any contribution and feedback will be appreciated.
 
 ## Examples
 
-# Machine Learning Engineering
+# MACHINE LEARNING ENGINEERING
 
 ## Career Advices
 
 ## Examples
 
+# OTHER RESOURCES
 
+## Interviews
+* [Chai Time Data Science](https://hackernoon.com/u/ctdsshow): Sanyam Bhutani's interviews with top Kagglers, ML researchers and practitioners.
