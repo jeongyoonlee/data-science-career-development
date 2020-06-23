@@ -16,7 +16,7 @@ Any contribution and feedback will be appreciated.
 
 ## Career Advices
 
-## Interviews
+## Examples
 
 # Machine Learning Research
 
@@ -28,12 +28,12 @@ Any contribution and feedback will be appreciated.
   * Learn the most. Do important work
 * [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html) by John Schulman at OpenAI
 
-## Interviews
+## Examples
 
 # Machine Learning Engineering
 
 ## Career Advices
 
-## Interviews
+## Examples
 
 
