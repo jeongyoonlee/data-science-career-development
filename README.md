@@ -14,13 +14,26 @@ Any contribution and feedback will be appreciated.
 
 # Data Analytics
 
+## Career Advices
+
+## Interviews
+
 # Machine Learning Research
 
+## Career Advices
+
 * [Stanford CS230: Autumn 2018 Lecture 8 - Career Advice & Reading Research Papers](https://youtu.be/733m6qBH-jI) by Andrew Ng at Stanford
-  1. Consistent efforts, e.g. reading 2 papers every week, matters more than intense burst of work.
-  2. Team you directly work with matters more than the brand of the company.
-  3. Learn the most. Do important work
+  * Consistent efforts, e.g. reading 2 papers every week, matters more than intense burst of work.
+  * Team you directly work with matters more than the brand of the company.
+  * Learn the most. Do important work
 * [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html) by John Schulman at OpenAI
 
+## Interviews
+
 # Machine Learning Engineering
+
+## Career Advices
+
+## Interviews
+
 
