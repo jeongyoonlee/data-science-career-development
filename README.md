@@ -37,6 +37,9 @@ Start with competitions at [Kaggle](https://kaggle.com).
 ### Tools
 * [scikit-learn](https://scikit-learn.org/), [lightgbm](https://github.com/microsoft/LightGBM), [xgboost](https://xgboost.readthedocs.io/en/latest/), [keras](https://keras.io/), [fastai](https://github.com/fastai/fastai), [pytorch](https://pytorch.org/), [tensorflow](https://www.tensorflow.org/)
 
+### Examples
+* [Deep RL for Supply Chain and Price Optimization](https://blog.griddynamics.com/deep-reinforcement-learning-for-supply-chain-and-price-optimization/) by Ilya Katsov
+
 ### Books
 * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
 * [Deep Learning with Python](https://amzn.to/3fSkndP) by François Chollet
@@ -56,7 +59,7 @@ Start with competitions at [Kaggle](https://kaggle.com).
 
 ## Data Engineering
 
-## Productionization
+## ML DevOps
 
 
 # OTHER RESOURCES
